@@ -1,0 +1,222 @@
+* Deep Work
+
+** Introduction
+
+*** Deep Work
+
+Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit.
+These efforts create new value, improve your skill and hard to replicate.
+
+*** Shallow Work
+
+Noncognitively demanding, logistical style tasks, often performed while distracted.
+These efforts tend to not create much new value in the world and are easy to replicate.
+
+*** The Deep Work Hypotheses
+
+The ability to perform deep work is becoming increasingly rare at exactly the same time it is becoming increasingly /valuable/ in our economy.
+As a consequence, the few who cultivate this skill, and make it the core of their working life, will thrive.
+
+** Part 1: The Idea
+*** Chapter 1: Deep Work is Valuable
+
+**** The Great Restructuring
+
+Digital technologies has transformed the labor markets. As intelligent machines improve, and the gap between machine and human abilities shrinks,
+employers are becoming increasingly likely to hire "new machines" instead of 'new people'
+
+**** The three types of valuable workers
+
+***** The High Skilled Workers
+  - Have the oracular ability to work with and tease valuable results out of increasingly c
+omplex machines will thrive.
+
+***** The Superstars
+  - The best in their respective field
+  - Independent of location because the advances in communication has destroyed regionalism
+  - Has the advantage in "winner-take-all" markets i.e. "Hearing a succession of mediocre singers does not add up to a single outstanding performance"
+  - 
+***** The Owners
+  - consists of those with capital to invest in the new technologies that drive the great
+
+**** How To Become A Winner In The New Economy
+
+***** Two Core abilities for thriving in the New Economy
+
+*The two abilities below are depend on your ability to do deep work*
+
+****** The ability to quickly master hard things
+
+- Most of the intelligent machines driving the Great Restructuring is are significantly more complex to understand and master
+- Most of technologies change rapidly, this process of mastering hard things never ends; You must be able to do it quickly, again and again
+- This ability plays a key role in the attempt to become a superstar in just about any field
+- If you can't learn, you can't thrive
+
+****** The ability to produce at the an elite level, in term of quality and speed
+
+- If you want to become a superstar, mastering the relevant skills is necessary but not sufficient. You must transform that latent potential into tangible
+  results that people value
+- If you don't produce, you won't thrive -- no matter how skilled or talented you are
+- 
+**** Deep Work Helps You Quickly Learn Hard Things
+
+"Let your mind become a lens, thanks to the converging rays of attention; let your soul be all intent on whatever it is that is established in your mind as a 
+dominant, wholly absorbing idea." - Antonin-Dalmace Sertillanges, /The Intellectual Life/
+
+"Men of genius themselves were great only by bringing all their power to bear on the point on which they had decided to show their full measure." - Antonin-Dalmace Sertillanges, /The Intellectual Life/
+
+***** Deliberate Practice
+
+****** Your attention is focused tightly on a specific skill set you're trying to improve or an idea you're trying to master
+
+- Deliberate practice cannot exist alongside distraction and that it instead requires uninterrupted concentration
+- "Diffused attention is almost antithetical to the /focused attention/ required by deliberate practice"
+
+****** You receive feedback so you can correct your approach to keep your attention exactly where it's most productive
+
+**** Deep Work Helps You Produce at an Elite Level
+
+***** Law of Productivity
+
+High-Quality Work Produced = (Time Spent) x (Intensity of Focus)
+
+***** Attention Residue
+
+...when you switch from some Task A to another Task B, your attention doesn't immediately follow -- a /residue/ of your attention remains stuck thinking about
+the original task. This residue gets especially thick if your work on Task A was unbounded and of low intensity before you switched, but even if you finish Task
+A before moving on, your attention remains divided for a while.
+
+..."People experiencing attention residue after switching tasks are likely to demonstrate poor performance on that next task," and the more intense the residue,
+the worse the performance
+
+To produce at your peak level you need to work for extended periods with full concentration on a single task free from distraction. Put another way,
+*the type of work that optimizes your performance is deep work*. If you're not comfortable going deep for extended periods of time, it'll be difficult to get your
+performance to peak levels of quality and quantity increasingly necessary to thrive professionally. Unless your talent absolutely dwarf those of your competition,
+the deep workers among them will outproduce you.
+
+***** What about Jack Dorsey? (counterexamples)
+
+Deep Work is not the /only/ skill valuable in our economy, and it is possible to do well without fostering this ability, /but/ the niches where this is is advisable are
+increasingly rare.
+
+*** Chapter 2: Deep Work is Rare
+
+**** Trends in big business
+
+***** Open office spaces 
+
+Create more oppurtunities for collaboration but they do so at the cost of massive distraction
+
+***** Rise of instant messaging 
+
+Email inboxes, in theory, can distract you only when you choose to open them, whereas instant messenger systems are meant to be always active--magnificing the
+impact of interruption
+
+***** The push for content producers of all types to maintain a social media presence.
+
+Serious journalist, for example, need to focus on doing serious journalism--diving into complicated source, poulling out connective threads, crafting persuasive prose--so to ask them to interrupt this deep thinking throughout the day to participate in the frothy back-and-forth of online tittering seems irrelevant(and somewhat deameaning) at best, and devastatingly distracted at worst.
+
+**** The Metric Black Hole
+
+Metrics that fall into an opaque region resistant to easy measurement--a region called the /metric black hole/.
+
+**** The Principle of Least Resistance
+
+***** The culture of connectivity
+
+One is expected to read or respond to e-mails(and related communication) quickly.
+
+***** The Principle of Least Resistance
+
+In a business setting, without clear feedback on the impact of various behaviors to the bottom line, we will tend towards behaviors that are the easiest at the moment.
+
+***** Why does the culture of connectivy persist? Because it's easier! Here are two reasons why this is true
+
+- If you work in an environment where you can get an answer to a question or a specific piece of informtion immediately when the need arises, this makes your life easier--at least, in the moment.
+- It creates an environment where it becomes acceptable to run your day out of your inbox.
+
+***** Other examples of business behaviors antithetical to depth
+
+- common practice of regularly occuring meetings for projects
+- common practice of forwarding an e-mail to one or more colleagues, labeled with a short open-ended interrogative, such as "Thoughts?"
+
+**** Busyness as a Proxy for Productivity
+
+/To do real good physics work, you do need absolute solid lengths of time... it needs a lot of concentration... if you have a job administrating anything, you don’t have the time. So I have invented another myth for myself: that I’m irresponsible. I’m actively irresponsible. I tell everyone I don’t do anything. If anyone asks me to be on a committee for admissions, “no,” I tell them: I’m irresponsible./ -- Richard Feynman
+
+***** Busyness as a proxy for Productivity
+
+/In the absence of clear indicators of what it means to be productive and valuable in their jobs, many knowledge workers turn back toward an industrial indicator of productivity: doing lots of stuff in a visible manner./
+
+Knowledge work is not an assembly line, and extracting value from information is an activity that's often at odds with busyness, not supported by it.
+
+**** The Cult of the Internet
+
+***** Technopoly
+
+If it's high tech, we began to assume, then it's good. Case closed.
+
+"Technopoly eliminates alternatives to itself in precisely the way Aldous Huxley outlined in the /Brave New World/,"
+"It does not make it illegal. It does not make them immoral. It does not even make them unpopular. It makes them invisible and therefore irrelevant." - Neil Postman
+
+In Morozov’s critique, we’ve made “the Internet” synonymous with the revolutionary future of business and government. To make your company more like “the Internet” is to be with the times, and to ignore these trends is to be the proverbial buggy-whip maker in an automotive age. We no longer see Internet tools as products released by for-profit companies, funded by investors hoping to make a return, and run by twentysomethings who are often making things up as they go along. We’re instead quick to idolize these digital doodads as a signifier of progress and a harbinger of a (dare I say, brave) new world.
+
+Deep work is at a severe disadvantage in a technopoly because it builds on values like quality, craftsmanship, and mastery that are decidedly old-fashioned and nontechnological.
+
+**** Bad for Business. Good for You.
+
+*** Chapter 3: Deep Work is Meaningful
+
+Deep work is not only economically lucrative, but also a life well lived.
+
+**** A Neurological Argument for Depth
+
+Like fingers pointing to the moon, other diverse disciplines from anthropology to education, behavioral economics to family counseling, similarly suggest that the skillful management of attention is the sine qua non of the good life and the key to improving virtually every aspect of your experience. -- Winifred Gallagher
+
+We tend to place a lot of emphasis on our circumstances, assuming that what happens to us (or fails to happen) determines how we feel. Our brains instead construct our worldview based on what we pay attention to.
+
+“Who you are, what you think, feel, and do, what you love—is the sum of what you focus on.” -- Winifred Gallagher
+
+There is, however, a hidden but equally important benefit to cultivating rapt attention in your workday: Such concentration hijacks your attention apparatus, preventing you from noticing the many smaller and less pleasant things that unavoidably and persistently populate our lives.
+
+**** A Psychological Argument for Depth
+
+“The best moments usually occur when a person’s body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile.” - Mihaly Csikszentmihalyi, his definition of /flow/
+
+"Ironically, jobs are actually easier to enjoy than free time, because like flow activities they have built-in goals, feedback rules, and challenges, all of which encourage one to become involved in one’s work, to concentrate and lose oneself in it. Free time, on the other hand, is unstructured, and requires much greater effort to be shaped into something that can be enjoyed." - Mihaly Csikszentmihalyi
+
+**** A Philosophical Argument for Depth
+
+***** Sacredness
+
+In a post-Enlightenment world we have tasked ourselves to identify what’s meaningful and what’s not, an exercise that can seem arbitrary and induce a creeping nihilism. “The Enlightenment’s metaphysical embrace of the autonomous individual leads not just to a boring life,” Dreyfus and Kelly worry; “it leads almost inevitably to a nearly unlivable one.”
+
+Craftsmanship, Dreyfus and Kelly argue in their book’s conclusion, provides a key to reopening a sense of sacredness in a responsible manner.
+
+The task of a craftsman, they conclude, “is not to generate meaning, but rather to cultivate in himself the skill of discerning the meanings that are already there .”
+
+Any pursuit—be it physical or cognitive—that supports high levels of skill can also generate a sense of sacredness.
+
+***** Craftmanship
+
+/Beautiful code is short and concise, so if you were to give that code to another programmer they would say, “oh, that’s well written code.” It’s much like as if you were writing a poem./ -- Santiago Gonzalez
+
+/Within the overall structure of a project there is always room for individuality and craftsmanship... One hundred years from now, our engineering may seem asarchaic as the techniques used by medieval cathedral builders seem to today’s civil engineers, while our craftsmanship will still be honored./ -- The Pragmatic Programmer
+
+***** Rarefied Jobs
+
+Our obsession with the advice to “follow your passion”,  for example, is motivated by the (flawed) idea that what matters most for your career satisfaction is the specifics of the job you choose.
+
+In this way of thinking, there are some rarified jobs that can be a source of satisfaction—perhaps working in a nonprofit or starting a software company—while all others are soulless and bland. The philosophy of Dreyfus and Kelly frees us from such traps. The craftsmen they cite don’t have rarified jobs.
+
+You don’t need a rarified job; you need instead a rarified approach to your work.
+
+***** Homo Sapien Deepensis
+
+Whether you approach the activity of going deep from the perspective of neuroscience, psychology, or lofty philosophy, these paths all seem to lead back to a connection between depth and meaning. It’s as if our species has evolved into one that flourishes in depth and wallows in shallowness, becoming what we might call /Homo sapiens deepensis/.
+
+** Part 2: The Rules
+*** Rule #1: Work Deeply
+*** Rule #2: Embrace Boredom
+*** Rule #3: Quit Social Media
+*** Rule #4: Drain the Shallows
