@@ -217,6 +217,46 @@ Whether you approach the activity of going deep from the perspective of neurosci
 
 ** Part 2: The Rules
 *** Rule #1: Work Deeply
+Unfortunately, when it comes to replacing distraction with focus, matters are not so simple. To understand why this is true let’s take a closer look at one of the main obstacles to going deep: the urge to turn your attention toward something more superficial. Most people recognize that this urge can complicate efforts to concentrate on hard things, but most underestimate its regularity and strength.
+
+/You have finite willpower and that becomes depleted as you use it./
+
+*The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration.*
+**** Decide on your Depth Philosophy
+***** The Monastic Philosophy of Deep Work Scheduling
+- This philosophy attempts to maximize deep efforts by eliminating or radically minimizing shallow obligations.
+- Practitioners of the monastic philosophy tend to have a well-defined and highly valued professional goal that they’re pursuing, and the bulk of their professional success comes from doing this one thing exceptionally well.
+
+Practitioners: Donald Knuth, Neal Stephenson
+***** The Bimodal Philosophy of Deep Work Scheduling
+
+- This philosophy asks that you divide your time, dedicating some clearly defined stretches to deep pursuits and leaving the rest open to everything else.
+- During the deep time, the bimodal worker will act monastically—seeking intense and uninterrupted concentration.
+- During the shallow time, such focus is not prioritized.
+- The minimum unit of time for deep work in this philosophy tends to be at least one full day. To put aside a few hours in the morning, for example, is too short to count as a deep work stretch for an adherent of this approach.
+- This philosophy is typically deployed by people who cannot succeed in the absence of substantial commitments to non-deep pursuits.
+
+Practitioners: Carl Jung, Adam Grant
+***** The Rhythmic Philosophy of Deep Work Scheduling
+
+*Chain Method* by /Jerry Seinfeld:/
+
+He keeps a calendar on his wall. Every day that he writes jokes he crosses out the date on the calendar with a big red X. “After a few days you’ll have a chain,” Seinfeld said. “Just keep at it and the chain will grow longer every day. You’ll like seeing that chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain.
+
+- This philosophy argues that the easiest way to consistently start deep work sessions is to transform them into a simple regular habit.
+- The goal, in other words, is to generate a /rhythm/ for this work that removes the need for you to invest energy in deciding if and when you’re going to go deep.
+- Another common way to implement the rhythmic philosophy is to replace the visual aid of the chain method with a set starting time that you use every day for deep work.
+- The decision between rhythmic and bimodal can come down to your self-control in such scheduling matters or your job schedule.
+
+Practitioners: Jerry Seinfeld, Brian Chappell
+***** TODO The Journalistic Style of Deep Work Scheduling
+
+- This philosophy means to fit in deep work whenever you can in your schedule.
+- This approach is not for the deep work novice.
+
+Practitioners: Walter Isaacson
+
+
 *** Rule #2: Embrace Boredom
 *** Rule #3: Quit Social Media
 *** Rule #4: Drain the Shallows
